@@ -12,7 +12,7 @@
 <img src="images/Fluid Gradient art.jpg?raw=true">
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Dual Lighting Effect](http://example.com/)
 <img src="https://github.com/asaucedo26/alfredportfolio/blob/master/images/Dual%20lighting%20effect.jpg?raw=true"/>
 
 ---
