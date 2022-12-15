@@ -26,7 +26,9 @@
 - [Project 5 Stickers](https://trinket.io/html/a6e729d8a9)
 
 ---
+### My Midterm Project
 
+-[Midterm Project - E-commerce](https://michelin-restaurant.w3spaces.com/)
 
 
 
