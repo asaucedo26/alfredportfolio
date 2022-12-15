@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Double Color Exposure](/sample_page)
-<img src="">
+<img src="https://github.com/asaucedo26/alfredportfolio/blob/master/images/Double%20Color%20exposure.png?raw=true">
 
 ---
 [Project 2 Fluid Gradient Art](/pdf/sample_presentation.pdf)
