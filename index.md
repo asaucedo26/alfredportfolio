@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="/>
+<img src="images/Fluid Gradient art.jpg?raw=truw">
 
 ---
 [Project 3 Title](http://example.com/)
