@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="/>
+<img src="https://github.com/asaucedo26/alfredportfolio/blob/master/images/Dual%20lighting%20effect.jpg?raw=true"/>
 
 ---
 
