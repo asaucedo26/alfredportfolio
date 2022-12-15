@@ -8,8 +8,8 @@
 <img src="images/Double Color exposure.png?raw=true">
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/Fluid Gradient art.jpg?raw=truw">
+[Project 2 Fluid Gradient Art](/pdf/sample_presentation.pdf)
+<img src="images/Fluid Gradient art.jpg?raw=true">
 
 ---
 [Project 3 Title](http://example.com/)
