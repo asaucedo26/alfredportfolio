@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Double Color Exposure](/sample_page)
-<img src="images/Double Color Exposure.png?raw=true">
+<img src="images/Double Color exposure.png?raw=true">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
