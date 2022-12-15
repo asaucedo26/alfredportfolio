@@ -17,7 +17,7 @@
 
 ---
 
-### My Web Design {rpject
+### My Web Design Project
 
 - [Project 1 About Me](https://trinket.io/html/c20d1ca716)
 - [Project 2 Tell a Story](https://trinket.io/html/429991162c)
